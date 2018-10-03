@@ -6,7 +6,7 @@ In this challenge, create a game where you fight against creatures and use speci
 
 1. Create an introduction to the user starting the game. The name of the game is "Path of the Jaguar".
 
-2. Create an interface called SpecialAbility
+2. Create an interface called SpecialAbilities
    - Have a method for pressingAttack, sneakAttack, magicDart, flameSweep, and lightningBolt
    - Implement this interface into the class "Combatant" (described next)
 
@@ -39,7 +39,7 @@ In this challenge, create a game where you fight against creatures and use speci
    -	Create logic for the character to find a healing potion on 20% of their searches
    -  In the case a character does find a potion, have it heal them for 2d6 + 2
 
-7. BONUS (read below): Define Special Abilities from the implemented SpecialAbility Interface
+7. BONUS (read below): Define Special Abilities from the implemented SpecialAbilities Interface
    -	The pressingAttack is a Fighter specific ability, it can only be used twice per game
          -	The pressingAttack method increases the Fighter’s odds of hitting by adding a +5 to the attack roll, and if the strike succeeds, it does an extra die of damage (in the case of a longsword being 1d8, the Fighter will do 2d8)
    -	The sneakAttack is a rogue specific ability, it can be used three times per game
