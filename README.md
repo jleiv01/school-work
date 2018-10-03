@@ -37,6 +37,7 @@ In this challenge, create a game where you fight against creatures and use speci
    -	If a monster is dead, have the character search, or “loot”, the dead monster
    -	The search can only happen one time, and it can only be done if the monster is dead
    -	Create logic for the character to find a healing potion on 20% of their searches
+   -  In the case a character does find a potion, have it heal them for 2d6 + 2
 
 7. BONUS (read below): Define Special Abilities from the implemented SpecialAbility Interface
    -	The pressingAttack is a Fighter specific ability, it can only be used twice per game
@@ -67,6 +68,7 @@ In this challenge, create a game where you fight against creatures and use speci
    -	This is a challenge, and meant to be slightly difficult to understand concepts of Object Oriented Programming
    -	Document your name and date on your program (in comments on the top of main)
    -	Speaking of commenting, they are useful! Practice them and use them as reminders for yourself, and for other professors to see them!
+   - For the battle, use a While(True) loop, learn to use continue and break
    -	Use git, it allows you to clone our framework code, and back them up to your own private repos! Not familiar? Read up on it! ACM has some notes on JagSync!
 
 <h3>Bonuses:</h3>
