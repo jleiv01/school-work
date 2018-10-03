@@ -80,6 +80,7 @@ In this challenge, create a game where you fight against creatures and use speci
          -	Use special ability
          -  Drink a potion (found from looting/searching method, that means searching method doesn't automatically make the character use it)
          -	Or retreat (which ends the combat)
+         - NOTE: You'll need methods for drinking potion and retreating
    -	Have an endless fight, after each Orc is slain, generate another Orc automatically and see how many your character can push through
    -	Create an Ogre race, here are the details:
          -	Starting hit points 125 hit points
