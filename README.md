@@ -74,6 +74,7 @@ In this challenge, create a game where you fight against creatures and use speci
 <h3>Bonuses:</h3>
 
    -	Do step 7, this isn’t required, but if this step is done, you must also add user entry in the combat loop, allowing players to choose if they want to do a regular attack, or a special ability, remember, there are limits to how many special abilities you can use
+   - Make all races/monsters into an enum
    -	Make all aspects of the game user entry, so that the game isn’t automatic, it’s driven forward by the users choices, from the menu, a character can do the following:
          -	Check their hit points (this does not end their turn)
          -	Attack
